@@ -6,18 +6,34 @@ category:
 tags: []
 ---
 {% include JB/setup %}
-
-	// Load the http module to create an http server.
+JavaScript
+---
 	var http = require('http');
+	var fs = require('fs');
+	var index = fs.readFileSync('index.html');
 
-	// Configure our HTTP server to respond with Hello World to all requests.
-	var server = http.createServer(function (request, response) {
-  		response.writeHead(200, {"Content-Type": "text/plain"});
-  		response.end("Hello World\n");
-	});
+	http.createServer(function (req, res) {
+	  res.writeHead(200, {'Content-Type': 'text/plain'});
+	  res.end(index);
+	}).listen(31337);
 
-	// Listen on port 8000, IP defaults to 127.0.0.1
-	server.listen(8000);
+Ruby
+---
+	def getCostAndMpg
+	    cost = 30000  # some fancy db calls go here
+	    mpg = 30
+	    return cost,mpg
+	end
+	AltimaCost, AltimaMpg = getCostAndMpg
+	puts "AltimaCost = #{AltimaCost}, AltimaMpg = #{AltimaMpg}"
 
-	// Put a friendly message on the terminal
-	console.log("Server running at http://127.0.0.1:8000/");
+C#
+---
+	public class Chat : Hub
+	{
+	    public void Send(string message)
+	    {
+	        // Call the addMessage method on all clients
+	        Clients.addNotification(message);
+	    }
+	}

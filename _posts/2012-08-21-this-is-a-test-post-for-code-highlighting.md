@@ -2,8 +2,8 @@
 layout: post
 title: "This is a test post for code highlighting"
 description: ""
-category: 
-tags: []
+category: Testing
+tags: [intro]
 ---
 {% include JB/setup %}
 JavaScript

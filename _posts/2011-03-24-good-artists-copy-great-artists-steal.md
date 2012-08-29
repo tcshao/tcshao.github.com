@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Good Artists Copy, Great Artists Steal"
+description: ""
+tags: [software design]
+---
+I was late to the LinkedIn party, very late in fact. When I finally decided to creat an account, I was surprised to see how much like facebook it was. Of course it has a little more "professional" sheen over it because people aren't sharing pictures of their kids and youtube videos of goats on tightropes. However it was pretty clear to me the influence facebook had on the site. Of course that prompted me to do some exploring and see what else was out there. I'm not sure how i found this, but facebook has something they call [BranchOut](http://www.branchout.com/) (clever, eh?) which seems to be there answer to LinkedIn. I created an account to see what it is, it seems to add the LinkedIn professional association stuff with the kitchyness of a facebook game, which I found rather amusing.
+
+It got me thinking about the amount of "copying" that is done in the creative and tech industries. Not copying as in making an exact duplicate, but looking at someone's work and taking their own spin on it. I remember when I was younger and I would decry a movie for being unoriginal, or thinking "well its just like X" as an insult. Now that I am more educated I know that some of the greatest works of art in Western Civilization (Mozart operas, Shakespere plays) are retellings of existing stories. The "art" comes in the execution and the emotions that the artist is able to evoke. In the tech arena, many core components of the way we interact with computers was developed at [Xerox PARC](http://en.wikipedia.org/wiki/Xerox_Parc#Accomplishments) (GUI, mouse). These were subsequently "copied" by Apple, then "copied" by Microsoft.
+
+My main point is it isn't necessarily a bad thing. Sometimes the best way to convey new ideas or to move things into a new direction is have most of it be something people are already comfortable with. The real talent comes in doing this and have your audience completely oblivious to the fact you are doing it. To that end, I would say this process makes the software industry healthier as a whole. If there is more competition to make a certain product, the quality ends up improving. Of course, in the age of intellectual property litigation this is much more of a gray area, but those are thoughts for another post.
+
+When I watch a movie which I'm aware is very similiar to something else, I still try to have an open mind. I don't require fresh new ideas; chances are the director of that movie has seen every movie out there that resembles what he/she just made. I try to move my mind from "Why is this person telling this story?", to "How is the person telling this story. What are they personally putting into this"
+
+Personally, if i'm trying to solve someone's software need, the first thing I think of when I see what the requirements are is "is there anything out there that's already developed that will do this?", and subsequently "is there anything out there that does 90% of it..what do i need to do to personalize it to get that last 10%". It just saves time and energy. There's no sense in reinventing the wheel, or, for that matter providing a car when all they need is transportation.
+
+Edit: Upon looking for the source of this quote (it's Picasso) I ran across this [video](http://www.youtube.com/watch?v=CW0DUg63lqU) of Steve Jobs quoting it. Which is very ironic considering certain current legal [action](http://www.latimes.com/business/la-fi-apple-amazon-20110323,0,5609580.story)

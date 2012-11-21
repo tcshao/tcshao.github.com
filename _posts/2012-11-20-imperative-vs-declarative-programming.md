@@ -27,7 +27,7 @@ This is fairly straight-foward as C# is concerned. One thing I would point out t
 
 Compare this with a functional approach. (I will show using F#)
 
-First we need to get a base algorithm to solve the problem:
+First, we need to get a base algorithm to solve the problem:
 
     let fizzBuzz x =
         match x with

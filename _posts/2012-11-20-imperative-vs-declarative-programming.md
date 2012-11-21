@@ -10,7 +10,7 @@ This is a key reason I am starting to gravitate towards declarative style and fu
 
 [Imperative Programs](http://en.wikipedia.org/wiki/Imperative_programming) defines explicit sequences of commands the computer will perform to get the desired result.  In contrast, [Declarative Programs](http://en.wikipedia.org/wiki/Declarative_programming) describes what the program should perform.  One of the most common declarative languages is SQL.  When you run a SELECT statement, you do not think about the steps the computer is actually taking, you are telling it what you would like it to do.
 
-I will show an example using the controversial FizzBuzz problem, here is an answer in imperative style (C#)
+I will show an example using the controversial [FizzBuzz](http://www.codinghorror.com/blog/2007/02/why-cant-programmers-program.html) problem, here is an answer in imperative style (C#)
 
 	for (int i = 1; i <= 100; i++)
 	{
@@ -45,5 +45,3 @@ All that is left to do is set up a sequence for how many numbers we want to go t
     [1..100] |> Seq.iter (fun number -> printfn "%s" (fizzBuzz number))
 
 The |> operator is the pipeline operator. It takes what's on the left and applies it to what is on the right. So, it takes in the numbers 1-100 as the source of the sequence, then iterates through the sequence and applies the function listed between the () to each item.
-
-Side Note, it seems to be an unwritten rule that FizzBuzz is always processed from 1 to 100.

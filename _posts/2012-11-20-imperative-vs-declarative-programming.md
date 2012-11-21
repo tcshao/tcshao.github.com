@@ -46,4 +46,4 @@ All that is left to do is set up a sequence for how many numbers we want to go t
 
 The |> operator is the pipeline operator. It takes what's on the left and applies it to what is on the right. So, it takes in the numbers 1-100 as the source of the sequence, then iterates through the sequence and applies the function listed between the () to each item.
 
-Side Note, it seems to be an unwritten rule that FizzBuzz is always processed from 100 to 1.
+Side Note, it seems to be an unwritten rule that FizzBuzz is always processed from 1 to 100.

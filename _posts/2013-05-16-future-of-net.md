@@ -11,7 +11,7 @@ It would seem almost to easy to have an opinion that would boil down to ".NET is
 
 I don't think the framework is "dead", more than it's "done" ( as in "complete"). It's now possible to use dynamic, functional, and object-oriented languages with it.  With the addition of the work that came out from the mono project,  it's now possible to target all the current popular platforms with it. Still though, it's hard to see a future where C# climbs up the github language popularity ladder.
 
-It probably won't, but really, what's wrong with that?  I am happy with C#, and it's the language i'm the most productive in, but times change, and the people must change with it.  If I had to start a large scale project would I still use C#? "It depends."
+It probably won't, but really, what's wrong with that?  
 
 I've heard complaints that it's leaving developers "out in the cold."  I don't agree.  The existing software isn't going anywhere.  As someone who, for some reason, finds himself having to open VB6 at least once a year to debug something, There will be plenty of .NET work for years to come.  It will just look a lot like the current work.
 

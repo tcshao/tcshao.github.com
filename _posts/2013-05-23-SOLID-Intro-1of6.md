@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SOLID Principles of Object-Oriented Deisgn (Part 1 of 6)
+title: SOLID Principles of Object-Oriented Design (Part 1 of 6)
 description: ""
 tags: [programming]
 ---

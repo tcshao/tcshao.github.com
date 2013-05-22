@@ -18,7 +18,7 @@ Business Rules
 -----------
 This small application runs each morining.  It's purpose is to email a forecasted price of an item so that a user can make a budget decision.  The source of the prices is an HTTP endpoint.  The naive algorithm gets prices from the last 7 days and computes the average.  It then emails that value to the specified user
 
-The Code (C#) [Repo Link](http://github.com/tcshao/SOLID-RefactoringExample)
+The Code (C#) ([Repo Link])(http://github.com/tcshao/SOLID-RefactoringExample)
 ----------
 	using System;
 	using System.Net.Mail;

@@ -66,3 +66,4 @@ This code has various issues, but for the purpose of the exercise, the issues we
 * How can you seperate the configuration from the application logic?
 
 In the next post I will refactor this code according to the Single Responsibility Principle.
+

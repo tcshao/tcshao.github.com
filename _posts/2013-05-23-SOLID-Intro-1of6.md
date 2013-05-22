@@ -4,7 +4,7 @@ title: SOLID Principles of Object-Oriented Deisgn (Part 1 of 6)
 description: ""
 tags: [programming]
 ---
-The SOLID pinciples of Object-Oriented design are guidelines to writing objects that can easily be extended and be maintained.  When I first learned about them, a couple of them were kind of hard for me to grasp at first.  The principles are:
+The SOLID principles of Object-Oriented design are guidelines to writing objects that can easily be extended and be maintained.  When I first learned about them, a couple of them were kind of hard for me to grasp at first.  The principles are:
 
 * Single responsibility Principle
 * Open/Closed Principle

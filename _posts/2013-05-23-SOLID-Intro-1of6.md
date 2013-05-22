@@ -6,11 +6,11 @@ tags: [programming]
 ---
 The [SOLID](http://en.wikipedia.org/wiki/SOLID_(object-oriented_design)) pinciples of Object-Oriented design are guidelines to writing objects that can easily be extended and be maintained.  When I first learned about them, a couple of them were kind of hard for me to grasp at first.  The principles are:
 
-> Single responsibility Principle
-> Open/Closed Principle
-> Liskov Substitution Principle
-> Interface Segregation Principle
-> Dependency Inversion Principle
+* Single responsibility Principle
+* Open/Closed Principle
+* Liskov Substitution Principle
+* Interface Segregation Principle
+* Dependency Inversion Principle
 
 I find it hard to illustrate these principles without going back to the "Interviewish" OO comparisons of cars and animals.  Though the next few posts, I will take a peice of code (It's a contrived example, but much similiar to code "in the wild") and apply these principles to create something that is more resiliant to change, and less error prone.  
 

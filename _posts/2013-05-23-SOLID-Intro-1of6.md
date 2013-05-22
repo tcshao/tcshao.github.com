@@ -48,7 +48,6 @@ The Code (C#)
 	            // calculate the average from the total
 	            var average = total / 7;
 	 
-	 
 	            var emailMessage = new MailMessage("from@null.com", "to@null.com")
 	                                   {
 	                                       Body = "The forcasted price is " + average.ToString()
@@ -59,3 +58,9 @@ The Code (C#)
 	        }
 	    }
 	}
+
+This code has various issues, but for the purpose of the exercise, the issues we will tackle concern the following questions
+
+* Can this code be tested, if so, how?
+* If you need to change any of the steps in this process, how easy is it? what will be affected by these changes?
+* How can you seperate the configuration from the application logic?

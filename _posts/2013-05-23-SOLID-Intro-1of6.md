@@ -58,7 +58,7 @@ The Code (C#)
 	        }
 	    }
 	}
-([Repo Link])(http://github.com/tcshao/SOLID-RefactoringExample)
+[Repo Link](http://github.com/tcshao/SOLID-RefactoringExample/blob/master/src/Initial/Program.cs)
 
 This code has various issues, but for the purpose of the exercise, the issues we will tackle concern the following questions
 

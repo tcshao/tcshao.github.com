@@ -1,6 +1,2 @@
-=======
-tcshao.github.com
-=======
-
-GitHub Pages Site - Using Jekyll
+GitHub Pages Site - Using Jekyll & Jekyll Bootstrap
 

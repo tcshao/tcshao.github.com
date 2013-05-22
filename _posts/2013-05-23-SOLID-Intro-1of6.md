@@ -64,3 +64,5 @@ This code has various issues, but for the purpose of the exercise, the issues we
 * Can this code be tested, if so, how?
 * If you need to change any of the steps in this process, how easy is it? what will be affected by these changes?
 * How can you seperate the configuration from the application logic?
+
+In the next post I will refactor this code according to the Single Responsibility Principle.

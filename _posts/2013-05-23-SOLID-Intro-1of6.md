@@ -36,7 +36,8 @@ The Code (C#)
 	            // get a total of the prices from the last 7 days
 	            while (beginDate < DateTime.Now)
 	            {
-	                var response = new HttpClient().GetAsync("http://www.null.com/" + beginDate.ToShortDateString()).Result;
+	                var response = new HttpClient()
+	                	.GetAsync("http://www.null.com/" + beginDate.ToShortDateString()).Result;
 	 
 	                int price = int.Parse(response.Content.ReadAsStringAsync().Result);
 	 

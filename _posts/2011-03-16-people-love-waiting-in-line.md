@@ -2,7 +2,7 @@
 layout: post
 title: "People Love Waiting in Line"
 description: ""
-tags: [software design]
+tags: [software design, opinion]
 ---
 *It's true!*
 

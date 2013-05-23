@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome to AutoINcomplete"
 description: ""
-tags: [intro]
+tags: [intro, test]
 ---
 I consider myself a fairly patient person. I really don't mind waiting for things. Although "good things come to those who wait" may be true in some occasions, the payoff is rarely worth the inconvenience. The only times I get truly frustrated waiting is when it is apparent I am waiting for something that really no wait is required for, or whatever service you are waiting for is organized so inefficiently that waiting seems to have been a design requirement. Another thing that is not particularly enjoyable is when something made to make things faster actually slows things down (hence the name of this site).
 

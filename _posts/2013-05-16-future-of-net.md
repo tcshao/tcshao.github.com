@@ -2,7 +2,7 @@
 layout: post
 title: "Thoughts on the future of .NET"
 description: ""
-tags: [programming]
+tags: [programming, opinion]
 ---
 
 I found K. Scott Allen's [post](http://odetocode.com/blogs/scott/archive/2013/05/15/where-is-net-headed.aspx) about the future of .NET crystalizes some of the thoughts I have had about .NET for a while now. As soon as Microsoft started open sourcing more and more of their development technologies (ASP.NET MVC being exceptionally notable) I started to wonder what the future would hold for .NET. Open sourcing definitely leads to better quality software, but to what end for Microsoft?  This being paired with the the things Microsoft is open sourcing are flavors of other things in the open source world.

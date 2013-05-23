@@ -2,7 +2,7 @@
 layout: post
 title: "Good Artists Copy, Great Artists Steal"
 description: ""
-tags: [software design]
+tags: [software design, opinion]
 ---
 I was late to the LinkedIn party, very late in fact. When I finally decided to creat an account, I was surprised to see how much like facebook it was. Of course it has a little more "professional" sheen over it because people aren't sharing pictures of their kids and youtube videos of goats on tightropes. However it was pretty clear to me the influence facebook had on the site. Of course that prompted me to do some exploring and see what else was out there. I'm not sure how i found this, but facebook has something they call [BranchOut](http://www.branchout.com/) (clever, eh?) which seems to be there answer to LinkedIn. I created an account to see what it is, it seems to add the LinkedIn professional association stuff with the kitchyness of a facebook game, which I found rather amusing.
 

@@ -12,6 +12,7 @@ The SOLID principles of Object-Oriented design are guidelines to writing objects
 * Interface Segregation Principle
 * Dependency Inversion Principle
 
+
 I find it hard to illustrate these principles without going back to the "Interviewish" OO comparisons of cars and animals.  Though the next few posts, I will take a peice of code (It's a contrived example, but much similiar to code "in the wild") and apply these principles to create something that is more resiliant to change, and less error prone.  
 
 Business Rules

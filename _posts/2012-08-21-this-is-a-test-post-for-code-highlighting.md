@@ -5,7 +5,6 @@ description: ""
 category: Testing
 tags: [intro]
 ---
-{% include JB/setup %}
 Below are some examples of code syntax highlight. I used this to see if the css was working properly
 JavaScript
 ---

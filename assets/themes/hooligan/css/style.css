@@ -70,6 +70,14 @@ pre, code {
   color: #ccc;
 }
 
+.code {
+  font-family: Menlo,Monaco,Consolas,monospace;
+  background-color: #000000;
+  margin: 0 0 0;
+  display: inline;
+  line-height: normal;
+}
+
 /* line 65, ../_sass/_base.scss */
 pre > code {
   /* Reset box-shadow for pygments */

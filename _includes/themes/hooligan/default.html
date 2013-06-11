@@ -61,7 +61,7 @@
               <li class="divider-vertical"></li>
               {% if site.author.github %}
                 <li>
-                  <a href="https://www.github.com/{{ site.author.github }}" class="zocial github icon" target="_blank">
+                  <a href="http://www.github.com/{{ site.author.github }}" class="zocial github icon" target="_blank">
                     <span class="hidden-desktop">Github</a>
                   </a>
                 </li>
@@ -94,13 +94,11 @@
                   </a>
                 </li>
               {% endif %}                    
-              {% if site.author.feedburner %}
                 <li>
-                  <a href="http://feeds.feedburner.com/{{ site.author.feedburner }}" class="zocial rss icon" target="_blank">
-                    <span class="hidden-desktop">FeedBurner</a>
+                  <a href="{{ production_url }}/atom.xml" class="zocial rss icon" target="_blank">
+                    <span class="hidden-desktop">subscribe via RSS</a>
                   </a>
                 </li>
-              {% endif %}
             </ul>
           </div>
         </div>

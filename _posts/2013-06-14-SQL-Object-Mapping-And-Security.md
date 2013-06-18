@@ -14,7 +14,7 @@ I've written a lot of code like this.  In fact, I wrote code like this exclusive
 
 The Motivating Example
 -----
-If you have any kind of application and you are doing any kind of logic based upon strings that are non-constants, you are going to have a bad time.  When you have a logic branch based on user input, that input needs to be verified that it is safe (sanitized) before doing anything with it.  Let's say somehow the contents of the variable userId became "0; DROP TABLE USERS".  This can happen because the variable is just blindly created from a user entered textbox or form request. the executed query is now:
+If you have any kind of application and you are doing any kind of logic based upon strings that are non-constants, you are going to have a bad time.  When you have a logic branch based on user input, that input needs to be verified that it is safe (sanitized) before doing anything with it.  Let's say somehow the contents of the variable `userId` became "0; DROP TABLE USERS".  This can happen because the variable is just blindly created from a user entered textbox or form request. the executed query is now:
 
 	query = "SELECT * FROM USERS WHERE UserId = 0; DROP TABLE USERS"
 	db.Execute(query)
